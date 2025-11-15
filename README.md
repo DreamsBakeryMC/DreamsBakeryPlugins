@@ -25,3 +25,15 @@ Aqui está listado todas as Dependências:
 | [Paper](https://github.com/PaperMC/Paper) | Mojang ([Minecraft Vanilla](https://minecraft.net/pt-br/download/server)) |
 | [Bukkit](https://dev.bukkit.org) | BukkitMC |
 
+## 📄 Licença & Alertas
+A Licença deste repositório é a [AGPL v3](LICENSE), recomendamos ler o Arquivo **LICENSE** para mais informações.
+
+Você pode rodas a vontade o JustALowLatency, se o programa em Java Não funcionar, tente fazer um fork com o código atualizado, isso é permitido neste repositório.
+
+© PerfectTea - Todos os Direitos Reservados.
+
+© Aquele AstroDev - Todos os Direitos Reservados.
+
+© DreamsBakery - Todos os Direitos Reservados.
+
+Para mais informações sobre nossa **Startup,** acesse: https://perfecttea.squareweb.app/
