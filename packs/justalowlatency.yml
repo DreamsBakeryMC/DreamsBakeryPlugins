@@ -1,0 +1,6 @@
+packs:
+    1:
+      name: JustALowLatency
+      folder: /packs
+      version: 1.21.8
+      minecraft version: Bedrock
