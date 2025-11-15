@@ -17,7 +17,8 @@ repositories {
 dependencies {
     compileOnly("org.spigotmc:spigot-api:1.21.8-R0.1-SNAPSHOT")
     implementation 'perfect.tea.net:JustALowLatency:1.0'
-    implementation 'perfect.tea.net.dreamsbakery.packs:1.0'
+    implementation 'perfect.tea.net.dreamsbakery.java.packs:1.0'
+    implementation 'perfect.tea.net.dreamsbakery.java.latency:1.0'
 }
 
 tasks {
