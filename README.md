@@ -1,4 +1,4 @@
-<h1 align="center">DreamsBakery</h1>
+<h1 align="center">DreamsBakeryPacks</h1>
 <h3 align="center">"Apenas um servidor incrível!"</h3>
 Olha só, seja bem vindo á um simples servidor de Minecraft, apesar de Não ser público, ele é super legal!
 
