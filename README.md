@@ -1,2 +1,27 @@
 <h1 align="center">DreamsBakery</h1>
 <h3 align="center">"Apenas um servidor incrível!"</h3>
+Olha só, seja bem vindo á um simples servidor de Minecraft, apesar de Não ser público, ele é super legal!
+
+## 🏭Plugins
+Sim, alguns plugins deste servidor são públicos, ou seja, você pode usar no seu Servidor de Minecraft.
+## 📝 Packs
+Estes plugins fazem partes do <a href="https://github.com/PerfectTeaBR/JustALowLatency">JustALowLatency</a>, ele aparecerá neste repositório, pois tudo que está em java nesta organização, é de Minecraft.
+
+## 💫 Compilação
+Para compilar os **Plugins**, siga estes passos:
+
+- Tenha o `JDK 8` (ou superior) instalado em sua máquina.
+- Baixe o **IntelliJ Idea**
+- Tenha um servidor de Minecraft rodando o [PaperMC](https://github.com/PaperMC/Paper) em sua máquina.
+- Clone o repositório se você quiser ver o código fonte rodando em sua máquina.
+  Pronto! Agora você está compilando os Plugins!
+  
+## 📦 Dependências
+Aqui está listado todas as Dependências:
+
+  | Nome  | Criadores e Mantedores |
+| ------------- | ------------- |
+| [Kotlin](https://kotlinlang.org) | JetBrains  |
+| [Paper](https://github.com/PaperMC/Paper) | Mojang ([Minecraft Vanilla](https://minecraft.net/pt-br/download/server)) |
+| [Bukkit](https://dev.bukkit.org) | BukkitMC |
+
