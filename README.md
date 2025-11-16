@@ -28,7 +28,7 @@ Aqui está listado todas as Dependências:
 ## 📄 Licença & Alertas
 A Licença deste repositório é a [AGPL v3](LICENSE), recomendamos ler o Arquivo **LICENSE** para mais informações.
 
-Você pode rodas a vontade o JustALowLatency, se o programa em Java Não funcionar, tente fazer um fork com o código atualizado, isso é permitido neste repositório.
+Você pode rodar a vontade os packs, se o programa em Java Não funcionar, tente fazer um fork com o código atualizado, isso é permitido neste repositório.
 
 © PerfectTea - Todos os Direitos Reservados.
 
