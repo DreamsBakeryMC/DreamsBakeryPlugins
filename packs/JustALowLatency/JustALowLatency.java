@@ -8,6 +8,7 @@ import java.util.concurrent.Executors;
 import java.util.stream.Collectors;
 import org.bukkit.plugin.java.JavaPlugin;
 import net.perfect.tea.justalowlatency.plugin;
+import perfect.tea.net.dreamsbakery.java.packs;
 
 public final class JustALowLatency extends JavaPlugin {
 
@@ -46,4 +47,5 @@ public class VerifyLatency {
             getPlayer().getMessage("Erro ao Calcular a Latência usando o JustALowLatencyCalculator - PerfectTea")
 }          
 public class LatencyFinal {
+
     latency.boolean(Bukkit).getPlayer().send("A Latência calculada é: {latency}")
